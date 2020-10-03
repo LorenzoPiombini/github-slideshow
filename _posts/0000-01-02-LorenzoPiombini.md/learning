@@ -2,7 +2,7 @@ n the "file name" field, type _posts/0000-01-02-LorenzoPiombini.md. Entering the
 When you’re done naming the file, add the following content to your file:
 ---
 layout: slide
-title: "Welcome to our second slide!"
+title: "I got this"
 ---
 Your text
 Use the left arrow to go back!
